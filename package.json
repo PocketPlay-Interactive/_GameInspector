@@ -1,0 +1,17 @@
+{
+  "name": "com.dann.gameinspector",
+  "version": "1.0.0",
+  "displayName": "Game Inspector",
+  "description": "Editor-only Inspector toolbar: prefab Apply/Revert/Create, component copy/paste/remove, expand/collapse all.",
+  "unity": "2022.3",
+  "author": {
+    "name": "DannOfficial",
+    "url": "https://github.com/PocketPlay-Interactive"
+  },
+  "keywords": [
+    "unity",
+    "editor",
+    "inspector",
+    "prefab"
+  ]
+}
