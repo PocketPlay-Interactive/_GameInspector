@@ -2,8 +2,13 @@
   "name": "com.dann.gameinspector",
   "version": "1.0.0",
   "displayName": "Game Inspector",
-  "description": "Editor-only Inspector toolbar: prefab Apply/Revert/Create, component copy/paste/remove, expand/collapse all.",
+  "description": "Editor-only Inspector toolbar for Unity: prefab Apply/Revert/Create, component Copy/Paste/Remove, Expand/Collapse all.",
   "unity": "2022.3",
+  "hideInEditor": false,
+  "documentationUrl": "https://github.com/PocketPlay-Interactive/_GameInspector/blob/main/README.md",
+  "changelogUrl": "https://github.com/PocketPlay-Interactive/_GameInspector/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/PocketPlay-Interactive/_GameInspector/blob/main/LICENSE.md",
+  "dependencies": {},
   "author": {
     "name": "DannOfficial",
     "url": "https://github.com/PocketPlay-Interactive"
@@ -12,6 +17,8 @@
     "unity",
     "editor",
     "inspector",
-    "prefab"
+    "prefab",
+    "component",
+    "tools"
   ]
 }
